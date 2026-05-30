@@ -10,6 +10,14 @@ Official public repository for [morse-coder.com](https://morse-coder.com). Morse
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![Morse Coder homepage](assets/screenshots/homepage.png)
+
+| Image decoder | Audio decoder |
+| --- | --- |
+| ![Morse Coder image decoder](assets/screenshots/decode-image.png) | ![Morse Coder audio decoder](assets/screenshots/decode-audio.png) |
+
 ## Product Focus
 
 - Learners practicing Morse alphabet, timing, abbreviations, and phrases

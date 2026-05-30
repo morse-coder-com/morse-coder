@@ -1,0 +1,18 @@
+name: Content or translation feedback
+description: Report unclear text, wrong reference content, or translation issues.
+title: "[Content]: "
+labels: ["type: content", "status: needs triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Include current wording, suggested wording, and reason.
+    validations:
+      required: true

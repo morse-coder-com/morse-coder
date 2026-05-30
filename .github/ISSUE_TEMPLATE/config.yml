@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Morse Coder website
+    url: https://morse-coder.com
+    about: Use the live translator and decoder tools.
+  - name: Support email
+    url: mailto:support@morse-coder.com
+    about: Use email for private support or security-sensitive reports.

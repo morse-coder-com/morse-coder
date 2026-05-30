@@ -1,42 +1,51 @@
+<p align="center">
+  <a href="https://morse-coder.com">
+    <img src="assets/morse-coder-icon.png" alt="Morse Coder logo" width="112" />
+  </a>
+</p>
+
 # Morse Coder
 
-Official public repository for [morse-coder.com](https://morse-coder.com), a browser-based Morse code translator, decoder, and learning reference.
+Official public repository for [morse-coder.com](https://morse-coder.com). Morse Coder is a browser-based Morse workspace for translating, playing, decoding, and learning Morse code from text, files, images, and audio.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-## What Morse Coder Provides
+## Product Focus
 
-- Text to Morse and Morse to text translation
-- Morse audio playback and timing controls
-- Text, image, and audio decoding workflows
-- Morse alphabet, number, abbreviation, word, and phrase references
-- Learning pages for beginners and amateur radio practice
-- Multilingual interface coverage for global learners
+- Learners practicing Morse alphabet, timing, abbreviations, and phrases
+- Amateur radio and emergency-communication users checking references
+- Users decoding pasted Morse, uploaded text files, screenshots, or recordings
+- Teachers and writers who need printable Morse reference material
 
-## Public Feedback
+## Main Workflows
 
-Use GitHub Issues for:
+- Translate text to Morse and Morse to text in real time.
+- Play Morse audio, adjust settings, and use visual light output for practice.
+- Use AI-assisted image decoding with OCR, manual correction, and analysis for uploaded photos or screenshots.
+- Decode MP3, WAV, M4A, AAC, and OGG Morse recordings.
+- Use printable reference sheets for alphabet, numbers, abbreviations, common words, and phrases.
 
-- Translation or decoding accuracy reports
-- Accessibility or usability problems
-- Feature requests for learning tools, decoder flows, or references
-- Documentation and content corrections
-- Browser compatibility problems
+## What To Open Here
 
-Please include the page URL, input sample, expected result, actual result, browser, device, and locale when relevant.
+- Translation, spacing, punctuation, timing, or playback issues
+- Image Morse decoding problems where OCR or manual correction needs better handling
+- Audio decoder files that fail or produce confusing output
+- Reference-sheet clarity for beginner, radio, or emergency practice
 
-## Roadmap
+## Repository Boundary
 
-The public roadmap is tracked in [ROADMAP.md](ROADMAP.md). It focuses on product direction rather than internal implementation details.
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Useful Links
+## Official Links
 
-- Website: https://morse-coder.com
-- Issues: https://github.com/morse-coder-com/morse-coder/issues
-- Discussions: https://github.com/morse-coder-com/morse-coder/discussions
+- Website: [morse-coder.com](https://morse-coder.com)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
 - Support: [SUPPORT.md](SUPPORT.md)
 - Security: [SECURITY.md](SECURITY.md)
 
-## Repository Scope
+## Support
 
-This repository is intentionally content-only. Public artifacts may include product notes, feedback templates, support policies, issue triage labels, and brand assets. Production code, infrastructure, secrets, analytics config, and private operational tooling are not published here.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.

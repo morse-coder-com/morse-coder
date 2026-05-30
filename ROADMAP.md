@@ -1,21 +1,31 @@
 # Morse Coder Public Roadmap
 
-This roadmap describes product areas under active consideration for morse-coder.com. It is not a release commitment.
+This roadmap summarizes product directions we are evaluating or actively improving for [morse-coder.com](https://morse-coder.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
-- Improve decoder reliability for pasted Morse, uploaded text files, images, and audio recordings.
-- Keep Morse references clear for beginners, amateur radio learners, and emergency communication practice.
-- Maintain multilingual coverage across core translator and learning pages.
-- Improve mobile usability for long inputs, playback controls, and reference tables.
+- Keep the text translator fast, predictable, and clear for beginners.
+- Improve decoder reliability for images, screenshots, recordings, and pasted input.
+- Make playback and visual-light settings easier to understand for practice.
+- Keep reference sheets printable and useful without requiring specialist software.
 
-## Planned Areas
+## Next
 
-- Better examples for ambiguous spacing and slash-separated Morse words.
-- More learning sheets for practice, common phrases, and radio abbreviations.
-- Clearer feedback when unsupported characters, noisy audio, or low-quality images affect results.
-- Accessibility improvements for keyboard navigation, screen readers, and high-contrast use.
+- Add more examples for spacing, prosigns, abbreviations, and common phrases.
+- Improve guidance when noisy audio or low-contrast images cannot be decoded cleanly.
+- Refine file conversion and download paths for classroom and practice use.
+- Review learning pages for accuracy, history context, and amateur-radio expectations.
 
-## Feedback Wanted
+## Later
 
-Open an issue if a decoder result is wrong, a reference page is unclear, or a workflow feels slow on your device. Real samples help us prioritize fixes.
+- Evaluate deeper practice drills and repeat-listening flows.
+- Add clearer diagnostics for decoding uncertainty.
+- Improve multilingual learning references where they help real learners.
+- Document browser limits for microphone, file, and OCR workflows.
+
+## Product Principles
+
+- Core translation should work without accounts or heavy setup.
+- Decoder claims should be practical, not absolute.
+- Learning material should support real practice and reference use.
+- This repository is for public product feedback, not private production source code.

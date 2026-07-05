@@ -1,6 +1,6 @@
 # Support
 
-This repository supports public product feedback for [Morse Coder](https://morse-coder.com). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This repository supports public product feedback for [Morse Coder Morse code translator and decoder](https://morse-coder.com). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 
@@ -11,7 +11,7 @@ This repository supports public product feedback for [Morse Coder](https://morse
 
 ## Private Support
 
-Email contact@gencoloring.ai for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
+Email support@morse-coder.com for account, billing, abuse, privacy, uploaded-media, or security-sensitive topics. Do not post payment details, personal data, private media, access tokens, cookies, or full request logs in public issues.
 
 ## Useful Details To Include
 

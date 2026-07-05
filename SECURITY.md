@@ -2,7 +2,7 @@
 
 ## Reporting A Vulnerability
 
-Please do not open public issues for security reports. Email contact@gencoloring.ai with a concise description, affected URL, reproduction steps, and any evidence that helps us verify impact.
+Please do not open public issues for security reports. Email support@morse-coder.com with a concise description, affected URL, reproduction steps, and any evidence that helps us verify impact.
 
 ## In Scope
 

@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Morse Coder. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [morse-coder.com](https://morse-coder.com).
+Thanks for helping improve Morse Coder. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [Morse Coder Morse code translator and decoder](https://morse-coder.com).
 
 ## Good Contributions
 

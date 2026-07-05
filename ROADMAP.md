@@ -1,6 +1,6 @@
 # Morse Coder Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [morse-coder.com](https://morse-coder.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [Morse Coder Morse code translator and decoder](https://morse-coder.com). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 

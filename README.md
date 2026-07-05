@@ -6,7 +6,7 @@
 
 # Morse Coder
 
-Official public repository for [morse-coder.com](https://morse-coder.com). Morse Coder is a browser-based Morse workspace for translating, playing, decoding, and learning Morse code from text, files, images, and audio.
+Official public repository for [Morse Coder Morse code translator and decoder](https://morse-coder.com). Morse Coder is a browser-based Morse workspace for translating, playing, decoding, and learning Morse code from text, files, images, and audio.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -47,13 +47,20 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [morse-coder.com](https://morse-coder.com)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [Morse Coder Morse code translator and decoder](https://morse-coder.com): Translate, play, decode, and learn Morse code from text, files, images, and audio.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Primary GitHub repository | [Morse Coder primary GitHub repository](https://github.com/morse-coder-com/morse-coder) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |

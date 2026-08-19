@@ -51,6 +51,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 
 - [Morse Coder Morse code translator and decoder](https://morse-coder.com): Translate, play, decode, and learn Morse code from text, files, images, and audio.
 
+## Signal Test Notes
+
+For translator or decoder feedback, include the input type—text, image, audio, or file—the alphabet/language context, and a short expected sequence. Use synthetic samples rather than recordings or files containing personal information.
+
 ## Recent Updates
 
 - 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
